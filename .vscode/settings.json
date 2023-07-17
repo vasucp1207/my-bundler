@@ -1,0 +1,9 @@
+{
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.glyphMargin": false,
+  "workbench.sideBar.location": "right",
+  "editor.folding": false,
+  "workbench.editor.pinnedTabSizing": "compact",
+  "workbench.editor.tabSizing": "shrink"
+}
